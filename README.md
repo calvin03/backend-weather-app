@@ -6,8 +6,12 @@ this route fetch a  data on openweatherapp ui that returns a data based on latit
 
 if user indicates a establishment it will also fetch a data on foursquare api to know the establishments nearby on selected latitude and longhitude.
 
-I use this implementation for a much cleaner code and better ux that fits on travelers that wants to know the weather and at the same time know what are the establishments near by. I didnt much focus on the ui because of the limited the but i make it responsive and easy to use for the users.
+I use this implementation for a much cleaner code and better ux that fits on travelers that wants to know the weather and at the same time know what are the establishments near by. I didnt much focus on the ui because of the limited time but i make it responsive and easy to use for the users.
 
+
+Here is the actual app you can check it:
+
+https://secure-beach-14872.herokuapp.com/
 
 ENV VARIABLES : 
 
@@ -23,7 +27,7 @@ Documentation:
 1.Fetch Weather Data
 
 URL:
-http://development.online-pdms.local/api/weather
+https://young-cliffs-37734.herokuapp.com/api/weather
 Method:
 POST
 Parameters :
