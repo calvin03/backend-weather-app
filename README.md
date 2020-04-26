@@ -6,7 +6,17 @@ this route fetch a  data on openweatherapp ui that returns a data based on latit
 
 if user indicates a establishment it will also fetch a data on foursquare api to know the establishments nearby on selected latitude and longhitude.
 
-I use this implementation for a much cleaner code and better ux that fits on travelers that wants to know the weather and at the same time know what are the establishments near by.
+I use this implementation for a much cleaner code and better ux that fits on travelers that wants to know the weather and at the same time know what are the establishments near by. I didnt much focus on the ui because of the limited the but i make it responsive and easy to use for the users.
+
+
+ENV VARIABLES : 
+
+
+WEATHER_API_KEY = 52971b08618c0eb1b3320b63dc50d197
+FOURSQUARE_CLIENT_ID = 0SMAYLWOTGEQUDPAZTZ0B1GVYWH545QP5J0IAYZJGMFEAARX
+FOURSQUARE_CLIENT_SECRET = 4B1PH3X2SCE1BUEPDZDLBDTWIATDSTSGKWCSULII1YYL0SFQ
+
+
 
 Documentation:
 
